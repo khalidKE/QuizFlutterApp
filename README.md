@@ -119,5 +119,10 @@ Contributions are welcome! If you encounter any bugs or have feature suggestions
 
 ## **License**
 This project is open-source and available.
-
 Enjoy coding and quizzing! 😊
+
+
+<img src="https://github.com/user-attachments/assets/17389a3a-6aba-49d1-b3c7-826eecffea59" width="400" height="800" /><img src="https://github.com/user-attachments/assets/fdac5e69-17d3-454d-b94d-6a25dda64727" width="400" height="800" /><img src="https://github.com/user-attachments/assets/76414741-7ccf-473a-a945-8f13db67093e" width="400" height="800" /><img src="https://github.com/user-attachments/assets/40d05d53-4ece-4e42-870c-27fbf133fe20" width="400" height="800" />
+
+
+
